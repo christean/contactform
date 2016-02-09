@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Data</h1>
-	<p>Please type in the following form:</p>
+	<p>Nuts! This form is just for checking validation, doesn't send an email is just for sample.</p>
 	
 	{!! Form::open(array('url' => 'contact')) !!}
 	{!! Form::label('First name') !!}
